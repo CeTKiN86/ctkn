@@ -18,6 +18,24 @@ export default function CTKNHome() {
       </header>
 
       <section className="text-center py-16 bg-cover bg-center" style={{ backgroundImage: 'url(/hero-placeholder.jpg)' }}>
+        <section id="shop" className="px-10 py-16 text-center bg-black text-white">
+  <h2 className="text-3xl font-bold text-[#00ced1]">6ixB Hoodie – Flock Edition</h2>
+  <p className="mt-4 text-gray-300">Fühl den Unterschied. Kein Druck – echtes Flock-Design mit weichem Samtgefühl.</p>
+  <img 
+    src="https://imgur.com/a/n78q1dk" 
+    alt="6ixB Hoodie" 
+    className="mx-auto mt-6 max-w-xs rounded-2xl shadow-lg"
+  />
+  <a 
+    href="https://www.printful.com/de/dashboard/product-templates/published/16191601/384698884?filter%5BsyncProductType%5D=all&filter%5Bsearch%5D=&filter%5Bpage%5D=1&filter%5Bstore%5D=16191601" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <button className="mt-6 bg-[#00ced1] text-black px-6 py-3 rounded-xl hover:bg-[#00b2b2] transition">
+      Jetzt kaufen
+    </button>
+  </a>
+</section>
         <motion.h2 
           className="text-5xl font-bold text-[#00ced1]"
           initial={{ opacity: 0, y: 20 }}
