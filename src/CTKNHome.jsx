@@ -22,7 +22,7 @@ export default function CTKNHome() {
   <h2 className="text-3xl font-bold text-[#00ced1]">6ixB Hoodie – Flock Edition</h2>
   <p className="mt-4 text-gray-300">Fühl den Unterschied. Kein Druck – echtes Flock-Design mit weichem Samtgefühl.</p>
   <img 
-    src="https://imgur.com/a/n78q1dk" 
+    src="https://www.directupload.eu/file/d/8951/bqvbxjf3_png.htm" 
     alt="6ixB Hoodie" 
     className="mx-auto mt-6 max-w-xs rounded-2xl shadow-lg"
   />
